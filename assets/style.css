@@ -1,0 +1,60 @@
+body {
+	background-color:#23262F;
+
+}
+
+.container {
+	background-color:#23262F;
+	/* margin:0; */
+	color:white;
+		font-style:courier;
+}
+
+#daily-case, #weekly-covid-case-per-100000, #heatmap-weekly-case-borough, #last-14-daily-case {
+	border: 1px solid gray;
+	margin:10px;
+}
+
+.info-header {
+	font-size:15px;
+	color:white;
+}
+
+.info {
+	font-size:30px;
+	font-weight:500;
+	color:white;
+}
+
+.info-container {
+    margin-bottom: 10px;
+	text-align:center;
+	border:1px solid gray;
+	padding:2px;
+	background-color:#23262F;
+}
+
+.info-change {
+	font-size:15px;
+	color:gray;
+}
+
+.case-count {
+
+}
+
+.time {
+	font-size:10px;
+}
+
+.death-count{
+	color:red;
+}
+
+#subheading {
+	font-size:10px;
+}
+
+H1 {
+	font-size:50px;
+}
